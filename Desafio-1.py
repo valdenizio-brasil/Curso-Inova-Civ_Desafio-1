@@ -8,3 +8,4 @@ s = num1 + num2 + num3
 print(f'Entrada: {num1}, {num2} e {num3}')
 print(f'Processamento {num1} + {num2} + {num3}')
 print(f'Saida: {s}')
+#Alterado no VS Code
